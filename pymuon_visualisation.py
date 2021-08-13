@@ -1,3 +1,4 @@
+#coded by github.com/danieldiamand
 
 import ase
 from ase import io
